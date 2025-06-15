@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="HanmakTechnologies.HealthCare.MedicentreV2.Properties.Settings.medicentreConnectionString"
+            connectionString="server=localhost;User Id=root;database=medicentre26"
+            providerName="MySql.Data.MySqlClient" />
+        <add name="HanmakTechnologies.HealthCare.MedicentreV2.Properties.Settings.medicentre25ConnectionString"
+            connectionString="server=localhost;User Id=root;database=medicentre26"
+            providerName="MySql.Data.MySqlClient" />
+    </connectionStrings>
+</configuration>
